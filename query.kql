@@ -1,0 +1,2 @@
+AzureDiagnostics
+| where client_ip_s contains "11"
